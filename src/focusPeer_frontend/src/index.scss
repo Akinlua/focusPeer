@@ -1,0 +1,36 @@
+main {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #4CAF50; /* Green */
+}
+
+img {
+  width: 100px;
+  height: auto;
+}
+
+input {
+  margin: 10px;
+  padding: 5px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.points {
+  font-weight: bold;
+  margin-top: 20px;
+}
